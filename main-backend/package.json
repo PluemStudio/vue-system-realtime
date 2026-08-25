@@ -1,0 +1,16 @@
+{
+  "name": "main-backend",
+  "version": "1.0.0",
+  "description": "A lightweight real-time system monitor built with Vue and WebSocket.",
+  "license": "MIT",
+  "author": "PluemStudio (MewChan)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "systeminformation": "^5.33.1",
+    "ws": "^8.21.3"
+  }
+}
