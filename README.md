@@ -1,5 +1,7 @@
 # Vue System Real-time
 
+![screenshot](images/screenshot.png)
+
 A lightweight, open-source real-time system monitoring application built with Vue, WebSocket, and systeminformation.
 
 Monitor your system resources directly from a web interface, including CPU, RAM, GPU, temperature, clock speed, and per-core usage.
