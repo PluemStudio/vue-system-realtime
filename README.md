@@ -27,8 +27,8 @@ Monitor your system resources directly from a web interface, including CPU, RAM,
 ## Installation
 
 ```bash
-git clone https://github.com/PluemStudio/system-realtime.git
-cd system-realtime/main-app
+git clone https://github.com/PluemStudio/vue-system-realtime.git
+cd vue-system-realtime/main-app
 pnpm install
 ```
 
